@@ -10,6 +10,7 @@ import java.io.*;
  */
 public class CopyFile {
     private static final int BUFFER_SIZE = 4096;
+	private static final String str = "JENKINS";
  
     public static void main(String[] args) {
         if (args.length < 2) {
