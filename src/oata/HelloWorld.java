@@ -13,5 +13,4 @@ public class HelloWorld {
         System.out.println("We got " + str);
     }
 	
-	//  Add Comments
 }
