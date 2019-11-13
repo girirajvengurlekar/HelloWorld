@@ -33,7 +33,7 @@ public class CopyFile {
                 outputStream.write(buffer, 0, bytesRead);
             }
         } catch (IOException ex) {
-            System.out.println("Exception occured" + ex);
+            System.out.println("Exception occured");
         }
     }
 }
